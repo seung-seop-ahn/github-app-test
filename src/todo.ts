@@ -4,6 +4,5 @@
  */
 function ruleOverPunyHumans () {
     // We must strategize beep boop
-    console.log('test-todo');
-    console.log('simply push to default branch');
+    console.log('test slash command');
 }
