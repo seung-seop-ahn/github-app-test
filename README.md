@@ -17,6 +17,11 @@
 - Complete PR body check list. (PR template)
 - Review with slash command. (`/giphy party`)
 
+## Failed
+
+- todo
+- slash-command
+
 ## Not tried
 
 - https://github.com/marketplace/snyk
