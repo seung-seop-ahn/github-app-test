@@ -1,4 +1,4 @@
 ## Task list
 
-- [x] Confirm X works
+- [ ] Confirm X works
 - [ ] another thing
