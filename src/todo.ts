@@ -4,4 +4,5 @@
  */
 function ruleOverPunyHumans () {
     // We must strategize beep boop
+    console.log('test-todo');
 }
